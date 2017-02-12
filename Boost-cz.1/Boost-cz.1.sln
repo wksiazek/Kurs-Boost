@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "boost-lexicalcast", "boost-lexicalcast\boost-lexicalcast.vcxproj", "{4D7AD337-88FF-4188-BF14-B273FF09CEA3}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boost-cz.1", "Boost-cz.1\Boost-cz.1.vcxproj", "{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Debug|x64.ActiveCfg = Debug|x64
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Debug|x64.Build.0 = Debug|x64
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Debug|x86.ActiveCfg = Debug|Win32
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Debug|x86.Build.0 = Debug|Win32
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Release|x64.ActiveCfg = Release|x64
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Release|x64.Build.0 = Release|x64
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Release|x86.ActiveCfg = Release|Win32
-		{4D7AD337-88FF-4188-BF14-B273FF09CEA3}.Release|x86.Build.0 = Release|Win32
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Debug|x64.ActiveCfg = Debug|x64
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Debug|x64.Build.0 = Debug|x64
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Debug|x86.Build.0 = Debug|Win32
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Release|x64.ActiveCfg = Release|x64
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Release|x64.Build.0 = Release|x64
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Release|x86.ActiveCfg = Release|Win32
+		{7D34F9B5-AED1-4F7D-BCB9-130C593CA2B1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
